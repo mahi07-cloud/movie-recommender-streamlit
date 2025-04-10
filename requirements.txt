@@ -1,5 +1,4 @@
 streamlit==1.24.1
-scikit-surprise==1.1.1
+# scikit-surprise==1.1.1  ← comment this for now
 numpy==1.23.5
 pandas==1.5.3
-
