@@ -104,7 +104,7 @@ kiwisolver==1.4.5
 langcodes==3.4.0
 language_data==1.2.0
 libclang==18.1.1
-lightfm --use-pep517
+git+https://github.com/lyst/lightfm.git#egg=lightfm
 lightgbm==4.4.0
 llvmlite==0.43.0
 lxml==5.2.1
